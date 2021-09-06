@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChandraShekharAzadVA
+- 👋 Hi, I’m ChandraShekharAzad
 - 👀 I’m interested in DevOps amd Cloud
 - 🌱 I’m currently learning Masters in Software Emgineering at University Of Limerick
 - 💞️ I’m looking to collaborate on open source project
